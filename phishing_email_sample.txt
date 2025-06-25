@@ -1,0 +1,18 @@
+From: PayPal Support <support@paypa1.com>
+To: You <you@example.com>
+Subject: Urgent: Unusual activity detected on your PayPal account
+
+Dear Customer,
+
+We have detected suspicious activity in your PayPal account and have temporarily limited your access for your protection.
+
+To restore full access, please verify your information by clicking the secure link below:
+
+https://www.paypal.com.secure-verify-account-login.info
+
+Failure to verify your account within 24 hours will result in permanent suspension.
+
+Thank you for your prompt attention to this serious matter.
+
+Sincerely,  
+PayPal Security Team
